@@ -10,6 +10,7 @@ I turn messy operational data into KPI frameworks and dashboards that leaders us
 **Featured work**
 - **Loan Portfolio Performance** *(building, Oct 2026)*: Power BI star schema, DAX time intelligence, row-level security
 - **[Retail Basket & Customer Segmentation](https://github.com/ShubhamSShaha/Departmental_Store_Optimization)**: association rules and clustering to guide store layout and promotions
+- **[When to Service the Engine](https://github.com/ShubhamSShaha/turbofan-maintenance-threshold)**: condition-based maintenance trigger on NASA turbofan data, 48% cheaper than a fixed schedule
 - **[Product Support AI Assistant](https://github.com/ShubhamSShaha/MGS636-AI-for-Managers)**: RAG and agent assistant (LlamaIndex, ChromaDB, Streamlit)
 
 📫 shahshubham212@gmail.com · https://www.linkedin.com/in/shubham-shaha72/
