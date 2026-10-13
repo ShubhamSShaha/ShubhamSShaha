@@ -1,4 +1,4 @@
-### Shubham Shaha: BI & Business Analytics
+### Shubham Shaha: Business Intelligence Analyst
 
 I turn messy operational data into KPI frameworks and dashboards that leaders use to make decisions.
 3+ years at Accenture and Cognizant (BI consulting, PySpark/SQL pipelines, Azure Synapse) · MBA in Analytics & Finance, University at Buffalo.
